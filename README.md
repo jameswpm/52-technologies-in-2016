@@ -20,7 +20,7 @@ Below is the list of technologies covered in this series:
 
 1. **[Week 1: January 03, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/01-finatra)** [Finatra - Build Beautiful REST API The Twitter Way](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/01-finatra/README.md). In this tutorial, we will learn how to write Scala REST APIs using Twitter's open source framework Finatra. We will build an application from scratch covering all the steps required to build the application. [X]
 
-2. **[Week 2: January 10, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt)** [SBT: The Missing Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt/README.md). In this tutorial, we will learn sbt build tool. sbt is a general purpose build tool written in Scala. It is best suited for Scala application development.[]
+2. **[Week 2: January 10, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt)** [SBT: The Missing Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt/README.md). In this tutorial, we will learn sbt build tool. sbt is a general purpose build tool written in Scala. It is best suited for Scala application development.[X]
 
 3. **[Week 3: January 17, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp)** [Sentiment Analysis in Scala with Stanford CoreNLP](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp/README.md). In this tutorial, we will learn how to use Stanford CoreNLP library for performing sentiment analysis of unstructured text in Scala.[]
 
