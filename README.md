@@ -22,7 +22,7 @@ Below is the list of technologies covered in this series:
 
 2. **[Week 2: January 10, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt)** [SBT: The Missing Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/02-sbt/README.md). In this tutorial, we will learn sbt build tool. sbt is a general purpose build tool written in Scala. It is best suited for Scala application development.[X]
 
-3. **[Week 3: January 17, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp)** [Sentiment Analysis in Scala with Stanford CoreNLP](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp/README.md). In this tutorial, we will learn how to use Stanford CoreNLP library for performing sentiment analysis of unstructured text in Scala.[]
+3. **[Week 3: January 17, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp)** [Sentiment Analysis in Scala with Stanford CoreNLP](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/03-stanford-corenlp/README.md). In this tutorial, we will learn how to use Stanford CoreNLP library for performing sentiment analysis of unstructured text in Scala.[X]
 
 4. **[Week 4: January 24, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/04-slick)** [Slick: Functional Relational Mapping for Mere Mortals Part 1](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/04-slick/README.md). In this tutorial, we will learn how to get started with Slick so that we can interact with relational databases in our Scala applications. Slick is a powerful Scala library to work with relational databases.[]
 
